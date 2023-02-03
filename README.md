@@ -2001,6 +2001,8 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 
 - [Kotki](https://github.com/kroketio/kotki) - Bergamot based language translations, entirely self-hosted. HTTP API, CLI, and library. ([Demo](https://kotki.kroket.io)) `MPL-2.0` `Python / C++`
 - [Libre Translate](https://libretranslate.com/) - Free and Open Source Machine Translation API, entirely self-hosted. ([Source Code](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`
+- [Apertium] (https://www.apertium.org) - Shallow-transfer machine translation engine, capable of performing translations between related languages. ([Source Codes](https://github.com/apertium)) `GPL-3.0` `C++`
+- [OpenNMT] (https://opennmt.net) - Neural machine translation system based on the Torch library, capable of performing translations between many different language pairs. `MIT` `Lua / Python`
 
 ### URL Shorteners
 
